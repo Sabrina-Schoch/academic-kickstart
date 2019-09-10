@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sabrina Schoch
 
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Carleton University
+  url: "https://carleton.ca/history/people/sabrina-schoch/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research addresses the neglect of female sexualities in Holocaust studies. Past research has focused on transgressive sexualities during the Second World War, however the predominant element has been male sexuality. A more comprehensive look at the female war experience is necessary, especially one that examines lesbianism in society and internment camps. The segregation of and violence against lesbians is a prime example of systemic abuses of power in the form of sexual supremacy that transcends time and geography. How this was experienced by lesbian women and shaped women’s intimacies in confinement, is an essential if underanalyzed part of this history.
 
 interests:
 - Artificial Intelligence
