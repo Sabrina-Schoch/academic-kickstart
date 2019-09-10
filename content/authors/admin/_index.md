@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Sabrina Schoch's work addresses the neglect of female sexualities in Holocaust studies. Past research has focused on transgressive sexualities during the Second World War, however the predominant element has been male sexuality. A more comprehensive look at the female war experience is necessary, especially one that examines lesbianism in Nazi ghettos and internment camps. The segregation of and violence against Jews is a prime example of systemic abuses of power in the form of sexual supremacy that transcends time and geography. How this was experienced by women and shaped women’s intimacies in confinement, is an essential if underanalyzed part of this history.
