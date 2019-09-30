@@ -21,9 +21,9 @@ organizations:
 bio: My research addresses the neglect of female sexualities in Holocaust studies. Past research has focused on transgressive sexualities during the Second World War, however the predominant element has been male sexuality. A more comprehensive look at the female war experience is necessary, especially one that examines lesbianism in society and internment camps. The segregation of and violence against lesbians is a prime example of systemic abuses of power in the form of sexual supremacy that transcends time and geography. How this was experienced by lesbian women and shaped women’s intimacies in confinement, is an essential if underanalyzed part of this history.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- social media
+- gender history
+- hierarchies and power relations
 
 education:
   courses:
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sabrina (dot) schoch (at) carleton (dot) ca"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Sabrina Schoch's work addresses the neglect of female sexualities in Holocaust studies. Past research has focused on transgressive sexualities during the Second World War, however the predominant element has been male sexuality. A more comprehensive look at the female war experience is necessary, especially one that examines lesbianism in Nazi communities and internment camps. The segregation of and violence against queers is a prime example of systemic abuses of power in the form of sexual supremacy that transcends time and geography. How this was experienced by lesbian women and shaped women’s intimacies in confinement, is an essential if underanalyzed part of this history.
+Sabrina Schoch's work addresses the neglect of female sexualities in Holocaust studies. Past research has focused on transgressive sexualities during the Second World War, however the predominant element has been male sexuality. A more comprehensive look at the female war experience is necessary, especially one that examines lesbianism in Nazi communities and internment camps. The segregation of and violence against queers is a prime example of systemic abuses of power in the form of sexual supremacy that transcends time and geography. How this was experienced by lesbians and shaped female intimacies in confinement, is an essential if underanalyzed part of this history.
