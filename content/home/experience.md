@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "Carleton University"
   company_url = ""
   location = "Ottawa, ON"
-  date_start = "2019-09-01"
+  date_start = "2018-09-01"
   date_end = ""
   description = """
   Responsibilities include:
