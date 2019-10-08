@@ -31,7 +31,8 @@ education:
     institution: Carleton University
     year: 2020
   - course: BA in History
-    institution: University of British Columbia
+
+institution: University of British Columbia
     year: 2017
 
 # Social/Academic Networking
