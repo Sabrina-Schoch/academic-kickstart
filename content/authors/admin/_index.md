@@ -27,13 +27,8 @@ interests:
 
 education:
   courses:
-  - course: MA in Public History
-    institution: Carleton University
-    year: 2020
-  - course: BA in History
-
-institution: University of British Columbia
-    year: 2017
+  - MA in Public History, Carleton University, 2020
+  - BA in History,  University of British Columbia, 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
