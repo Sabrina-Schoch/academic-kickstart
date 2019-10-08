@@ -26,7 +26,6 @@ interests:
 - hierarchies and power relations
 
 education:
-  courses:
   - MA in Public History, Carleton University, 2020
   - BA in History,  University of British Columbia, 2017
 
